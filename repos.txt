@@ -7,11 +7,11 @@
 #therealaleph/MasterHttpRelayVPN-RUST
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
-#NullLatency/FlowDriver|linux-amd64|darwin-amd64
+NullLatency/FlowDriver|linux-amd64|darwin-amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
 #SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
-Nekogram/Nekogram|universal.apk
+Nekogram/Nekogram
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
 #KaringX/karing|\.dmg|\.exe
