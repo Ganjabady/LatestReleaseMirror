@@ -182,4 +182,16 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
 | `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+
+---
+
+<div id="code3-dev--gnet"></div>
+
+### code3-dev--GNet
+
+🔗 [source](https://github.com/code3-dev/GNet) – [<code><small>v1.0.4</small></code>](https://github.com/code3-dev/GNet/releases/tag/v1.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `GNet-universal.apk` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/code3-dev/GNet/GNet-universal.apk) |
 <!-- RELEASES_END -->
