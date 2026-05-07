@@ -157,5 +157,29 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="nekogram--nekogram"></div>
 
+### Nekogram--Nekogram
+
+🔗 [source](https://github.com/Nekogram/Nekogram) – [<code><small>v12.6.4</small></code>](https://github.com/Nekogram/Nekogram/releases/tag/v12.6.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `Nekogram-12.6.4-6666-arm64-v8a.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-arm64-v8a.apk) |
+| `Nekogram-12.6.4-6666-armeabi-v7a.apk` | 56.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-armeabi-v7a.apk) |
+| `Nekogram-12.6.4-6666-x86.apk` | 65.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-x86.apk) |
+| `Nekogram-12.6.4-6666-x86_64.apk` | 65.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-x86_64.apk) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
+| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
 <!-- RELEASES_END -->
