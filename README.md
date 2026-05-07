@@ -157,21 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="nekogram--nekogram"></div>
-
-### Nekogram--Nekogram
-
-🔗 [source](https://github.com/Nekogram/Nekogram) – [<code><small>v12.6.4</small></code>](https://github.com/Nekogram/Nekogram/releases/tag/v12.6.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `Nekogram-12.6.4-6666-arm64-v8a.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-arm64-v8a.apk) |
-| `Nekogram-12.6.4-6666-armeabi-v7a.apk` | 56.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-armeabi-v7a.apk) |
-| `Nekogram-12.6.4-6666-x86.apk` | 65.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-x86.apk) |
-| `Nekogram-12.6.4-6666-x86_64.apk` | 65.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/Nekogram/Nekogram/Nekogram-12.6.4-6666-x86_64.apk) |
-
----
-
 <div id="nulllatency--flowdriver"></div>
 
 ### NullLatency--FlowDriver
@@ -185,13 +170,13 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="code3-dev--gnet"></div>
+<div id="hightemp--proxy_switcher"></div>
 
-### code3-dev--GNet
+### hightemp--proxy_switcher
 
-🔗 [source](https://github.com/code3-dev/GNet) – [<code><small>v1.0.4</small></code>](https://github.com/code3-dev/GNet/releases/tag/v1.0.4)
+🔗 [source](https://github.com/hightemp/proxy_switcher) – [<code><small>v1.0.5</small></code>](https://github.com/hightemp/proxy_switcher/releases/tag/v1.0.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `GNet-universal.apk` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/code3-dev/GNet/GNet-universal.apk) |
+| `proxy_switcher-release.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Ganjabady/LatestReleaseMirror/main/releases/hightemp/proxy_switcher/proxy_switcher-release.apk) |
 <!-- RELEASES_END -->
